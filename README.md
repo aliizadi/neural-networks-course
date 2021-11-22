@@ -9,9 +9,9 @@ assignments and projects of neural networks course
 
 ## HW2
 
-## MLP for classficiation - pytorch 
+### MLP for classficiation - pytorch 
 
-## MLP for regression - pytorch
+### MLP for regression - pytorch
 
-## Dimension reduction with Autoencoder and PCA for classification and regression
+### Dimension reduction with Autoencoder and PCA for classification and regression
 
